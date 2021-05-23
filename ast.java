@@ -3,7 +3,7 @@ abstract class g
 abstract void add();
 void print()
 {
-System.out.println("hello");
+System.out.println("heeello");
 }
 }
 public class h extends g
