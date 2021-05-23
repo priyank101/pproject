@@ -1,9 +1,9 @@
 class my_class(object):
-    print('hello priyank')
+    print('hello')
+    print('priyank')
+
 
 m=my_class()
-
-
 
 
 
